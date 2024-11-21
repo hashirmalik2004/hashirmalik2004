@@ -1,6 +1,5 @@
 - 👋 Hi, I’m muhammad hashir
-- I'm a Computer Science student with a passion for coding, problem-solving, and innovation. Currently, I'm expanding my skills  with technologies like HTML, CSS, JavaScript, Node.js, C++
-  and other tools
+- I'm a Computer Science student with a passion for coding, problem-solving, and innovation. Currently, I'm expanding my skills  with technologies like HTML, CSS, JavaScript, Node.js, express js , C++ and other tools
 
 
 <!---
