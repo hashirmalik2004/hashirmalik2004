@@ -1,5 +1,5 @@
 - <h1 align="center">Hi ,  I'm muhammad hashir</h1>
-<h3 align="center">I'm a Computer Science major with a passion for coding, problem-solving, and innovation. Currently, I'm expanding my skills with technologies like HTML, CSS, JavaScript, Node.js, express js , C++ and other tools</h3>
+<h3 align="center">I'm a Computer Science major with a passion for coding, problem-solving, and innovation. Currently, I'm expanding my skills with technologies like HTML, CSS, JavaScript, Node.js, express , C++ and other tools</h3>
 
 - 📫 How to reach me **muhammadhashirwork4@gmail.com**
 
